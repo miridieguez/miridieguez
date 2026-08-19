@@ -26,9 +26,13 @@ Estudiante de Ingeniería en Sistemas de Información en la UTN FRBA, cursando c
 ## Con qué trabajo
 
 **Lenguajes** — TypeScript · JavaScript · Java · C · SQL · Haskell · Prolog
+
 **Backend** — Node.js · Express · Spring Boot · Spring Security · Prisma
+
 **Frontend** — React · Next.js · Thymeleaf · Tailwind
+
 **Bases de datos** — PostgreSQL · MySQL · MongoDB · SQLite
+
 **Otros** — Git · Jest · Cypress · Docker · MinIO · GraphQL
 
 ## Dónde encontrarme
