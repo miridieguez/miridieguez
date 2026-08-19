@@ -39,4 +39,4 @@ Estudiante de Ingeniería en Sistemas de Información en la UTN FRBA, cursando c
 
 **LinkedIn** — linkedin.com/in/miranda-dieguez  
 
-**Mail:** — miridieguez05@gmail.com
+**Mail** — miridieguez05@gmail.com
