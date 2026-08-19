@@ -20,7 +20,8 @@ Estudiante de Ingeniería en Sistemas de Información en la UTN FRBA, cursando c
 **[MetaMapa](https://github.com/miridieguez/MetaMapa)** *(repo privado — disponible a pedido)* — Plataforma de agregación de eventos geolocalizados desde fuentes heterogéneas, con consenso automático entre fuentes duplicadas y moderación administrativa. Arquitectura de microservicios, proyecto grupal.
 `Java 17` `Spring Boot` `Spring Security` `JWT` `GraphQL` `MySQL` `MinIO` `WebFlux` `Docker`
 
-**Plug & Pray** — Simulador de sistema operativo distribuido en módulos comunicados por sockets TCP (planificador, CPU, memoria con segmentación y swap, I/O). Implementé el módulo kernel_scheduler: Round Robin, colas multinivel y herencia de prioridades. Proyecto grupal. C Sockets TCP Makefiles Ubuntu Server
+**[Plug & Pray](https://github.com/miridieguez/Plug-Pray)** — Simulador de sistema operativo distribuido en módulos comunicados por sockets TCP (planificador, CPU, memoria con segmentación y swap, I/O). Implementé el módulo `kernel_scheduler`: Round Robin, colas multinivel y herencia de prioridades. Proyecto grupal.
+`C` `Sockets TCP` `Makefiles` `Ubuntu Server`
 
 ## Con qué trabajo
 
